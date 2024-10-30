@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom post types bubbles\n"
+"POT-Creation-Date: 2018-10-08 13:00+0300\n"
+"PO-Revision-Date: 2018-10-08 13:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cpt-bubbles.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cpt-bubbles.php:57
+msgid "Draft"
+msgstr "Προσχέδιο"
+
+#: cpt-bubbles.php:58
+msgid "Pending Review"
+msgstr "Εκκρεμεί ανασκόπηση"
+
+#: cpt-bubbles.php:59
+msgid "Private"
+msgstr "Ιδιωτικό"
+
+#: cpt-bubbles.php:60
+msgid "Published"
+msgstr "Δημοσιευμένο"
+
+#: cpt-bubbles.php:61
+msgid "Future"
+msgstr "Μελλοντικό"
+
+#: cpt-bubbles.php:94
+msgid "Please choose any Post Type you want to show the bubbles."
+msgstr "Παρακαλώ επιλέξτε όποιο Post Type επιθυμείτε να παρακολουθείτε."
+
+#: cpt-bubbles.php:95
+msgid ""
+"You can choose any color combinations for your Post types and your Post "
+"statuses."
+msgstr ""
+"Μπορείτε να επιλέξετε οποιοδήποτε χρωματικό συνδυασμό για κάθε Post type σας "
+"και για κάθε Post status."
+
+#: cpt-bubbles.php:143
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom post types bubbles"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily add notifications bubble with counters for every Post Type and every "
+"Post Status."
+msgstr ""
+"Εύκολα προσθέστε ειδοποιήσεις σε bubble δίπλα απο οποιοδήποτε post type και "
+"για οποιοδήποτε post status."
+
+#. Author of the plugin/theme
+msgid "Andreas Sofantzis"
+msgstr ""
